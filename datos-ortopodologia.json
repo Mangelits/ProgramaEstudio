@@ -1,0 +1,1562 @@
+[
+  {
+    "id": 1,
+    "tema": "Ortopodología Infantil",
+    "contexto": null,
+    "pregunta": "Una ortesis UNFO se utiliza en el tratamiento de:",
+    "opciones": {
+      "a": "Pie equinovaro congénito.",
+      "b": "Metatarsus adductus.",
+      "c": "Torsión tibial interna."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La ortesis UNFO (Universal Neonatal Foot Orthosis) es un dispositivo prefabricado diseñado específicamente para el tratamiento conservador del metatarsus adductus en lactantes, evitando la necesidad de yesos seriados."
+  },
+  {
+    "id": 2,
+    "tema": "Ortopodología Infantil",
+    "contexto": null,
+    "pregunta": "Según la clasificación clínica del metatarsus adductus cuando al corregir la posición del metatarsus adductus se alcanza la línea media del pie se considera:",
+    "opciones": {
+      "a": "Ligero.",
+      "b": "Leve.",
+      "c": "Moderado."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "En la evaluación de flexibilidad/reductibilidad, si al manipular el antepié solo se logra llevarlo hasta la línea media (neutro) pero no se puede sobrecorregir hacia la abducción, se clasifica como una rigidez o deformidad moderada."
+  },
+  {
+    "id": 3,
+    "tema": "Ortopodología Infantil",
+    "contexto": null,
+    "pregunta": "Indique en cuál de los siguientes casos estaría indicado el tratamiento con yesos seriados en un metatarsus adductus.",
+    "opciones": {
+      "a": "La bisectriz del talón cruza el tercer dedo.",
+      "b": "Al traccionar del antepié se alcanza la línea medial del pie.",
+      "c": "Al manipular el pie no se modifica la posición del antepié."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Cuando la deformidad es totalmente rígida y no es reductible manualmente (no se modifica la posición), el tratamiento de elección son los yesos seriados para forzar la corrección estructural progresiva."
+  },
+  {
+    "id": 4,
+    "tema": "Pie Diabético",
+    "contexto": null,
+    "pregunta": "Según la guía de recomendaciones del IWGDF de 2023 la utilización de fieltros y calzado terapéutico para la descarga de una úlcera en el antepié se considera de:",
+    "opciones": {
+      "a": "Segunda opción de tratamiento.",
+      "b": "Tercera opción de tratamiento.",
+      "c": "Cuarta opción de tratamiento."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El TCC (Yeso de Contacto Total) y los dispositivos no removibles son la 1ª opción. Si no se toleran, los removibles son la 2ª opción. Los fieltros con calzado terapéutico quedan relegados a una 3ª opción por su menor eficacia biomecánica."
+  },
+  {
+    "id": 5,
+    "tema": "Patología de Cadera",
+    "contexto": null,
+    "pregunta": "En la cadera dolorosa del adulto cuando se produce un atrapamiento femoroacetabular debido a una cabeza femoral anormal se dice que es de tipo:",
+    "opciones": {
+      "a": "Cam.",
+      "b": "Pincer.",
+      "c": "Cam-Pincer."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "El atrapamiento tipo CAM (leva) ocurre cuando la transición entre la cabeza y el cuello femoral pierde su esfericidad, chocando contra el acetábulo. El tipo Pincer se debe a un exceso de cobertura del propio acetábulo."
+  },
+  {
+    "id": 6,
+    "tema": "Ortopodología Infantil",
+    "contexto": null,
+    "pregunta": "Un niño que normalmente se sienta en \"W\" se asocia con:",
+    "opciones": {
+      "a": "Retroversión femoral.",
+      "b": "Torsión tibial interna.",
+      "c": "Anteversión femoral."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La postura en 'W' al sentarse en el suelo favorece y es un signo clínico clásico de los niños que presentan un exceso de anteversión femoral (aumento patológico de la rotación interna de la cadera)."
+  },
+  {
+    "id": 7,
+    "tema": "Radiología Podológica",
+    "contexto": null,
+    "pregunta": "La proyección de Harris-Beath se solicita ante la sospecha de:",
+    "opciones": {
+      "a": "Coalición Cuneometatarsal.",
+      "b": "Coalición astrágalo-calcánea.",
+      "c": "Coalición calcáneo-escafoidea."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La proyección axial de calcáneo (Harris-Beath) está diseñada específicamente para despejar y visualizar las facetas articulares subastragalinas, siendo el Gold Standard radiográfico para diagnosticar coaliciones astrágalo-calcáneas."
+  },
+  {
+    "id": 8,
+    "tema": "Patología de Cadera",
+    "contexto": null,
+    "pregunta": "Ante un paciente adulto que refiere en consulta dolor por la parte lateral de la cadera sospecharía de:",
+    "opciones": {
+      "a": "Necrosis avascular de la cadera.",
+      "b": "Artrosis de la cadera.",
+      "c": "Bursitis trocantérea."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El dolor focalizado en la cara lateral de la cadera (zona del trocánter mayor) que empeora a la palpación o al dormir de ese lado es el síntoma clínico principal de la bursitis trocantérea o síndrome doloroso del trocánter mayor."
+  },
+  {
+    "id": 9,
+    "tema": "Patología de Cadera",
+    "contexto": null,
+    "pregunta": "Indique cuál de las siguientes patologías de cadera es una alteración de la placa de crecimiento:",
+    "opciones": {
+      "a": "Enfermedad de Perthes.",
+      "b": "Enfermedad de Sever.",
+      "c": "Epifisiolisis."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La epifisiolisis de la cabeza femoral (deslizamiento epifisario) es una fractura o alteración a través de la fisis (placa de crecimiento) que provoca que la epífisis se deslice respecto al cuello femoral."
+  },
+  {
+    "id": 10,
+    "tema": "Ortopodología Infantil",
+    "contexto": null,
+    "pregunta": "En el método Ponseti para el tratamiento del pie equinovaro congénito la primera alteración en corregirse es:",
+    "opciones": {
+      "a": "El equino.",
+      "b": "El varo.",
+      "c": "El cavo."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El protocolo Ponseti sigue el acrónimo CAVE para el orden estricto de corrección: 1º Cavo (supinando el antepié), 2º Aducto, 3º Varo, y finalmente 4º Equino (normalmente mediante tenotomía percutánea)."
+  },
+  {
+    "id": 11,
+    "tema": "Ortopodología Infantil",
+    "contexto": null,
+    "pregunta": "Para evitar las recidivas tras el tratamiento por el método Ponseti en un pie equinovaro congénito las férulas se aplican hasta que:",
+    "opciones": {
+      "a": "Camine.",
+      "b": "Tenga 4 o 5 años.",
+      "c": "Tenga 9 años."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Tras retirar el último yeso, el uso de la férula de abducción (Dennis-Brown) es innegociable durante las horas de sueño hasta los 4 o 5 años de edad, ya que la tasa de recidiva natural de la deformidad es altísima hasta esa edad."
+  },
+  {
+    "id": 12,
+    "tema": "Ortesis de Miembro Inferior",
+    "contexto": null,
+    "pregunta": "En los pacientes con PCI la valoración del AFO debería realizarse junto con el calzado:",
+    "opciones": {
+      "a": "Debe valorarse junto ya que se complementan.",
+      "b": "La valoración del calzado es independiente ya que puede cambiar de zapato.",
+      "c": "Es indiferente."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Un AFO (Ankle-Foot Orthosis) altera la alineación del segmento pie-pierna. El diseño del calzado (altura de tacón, drop, rigidez de suela) altera el comportamiento del AFO en el suelo, por lo que siempre deben valorarse como un sistema funcional único."
+  },
+  {
+    "id": 13,
+    "tema": "Patología Neurológica",
+    "contexto": null,
+    "pregunta": "Durante la etapa aguda en un paciente que ha sufrido un ictus los pacientes suelen presentar:",
+    "opciones": {
+      "a": "Hipotonía.",
+      "b": "Espasticidad.",
+      "c": "Contractura."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Inmediatamente después de un Ictus (fase aguda o de shock neural), el miembro afectado suele presentar parálisis flácida e hipotonía profunda. La espasticidad y la hiperreflexia aparecen posteriormente en la fase subaguda/crónica."
+  },
+  {
+    "id": 14,
+    "tema": "Ayudas a la Marcha",
+    "contexto": null,
+    "pregunta": "Los componentes básicos de un bastón son:",
+    "opciones": {
+      "a": "Empuñadura, caña y contera.",
+      "b": "Empuñadura, apoyo de antebrazo, caña y contera.",
+      "c": "Empuñadura, apoyo de antebrazo y contera."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Un bastón simple se compone estructuralmente de tres partes: la empuñadura (donde agarra la mano), la caña (el tubo o cuerpo) y la contera (la goma antideslizante en contacto con el suelo)."
+  },
+  {
+    "id": 15,
+    "tema": "Ayudas a la Marcha",
+    "contexto": null,
+    "pregunta": "Al utilizar un bastón el codo debe quedar flexionado unos:",
+    "opciones": {
+      "a": "20º - 30º.",
+      "b": "40º.",
+      "c": "60º."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Para asegurar que el tríceps pueda ejercer fuerza correctamente sin fatigar la articulación del hombro, la empuñadura debe situarse a la altura del trocánter mayor, lo que produce una flexión fisiológica del codo de unos 20-30 grados."
+  },
+  {
+    "id": 16,
+    "tema": "Patología Neurológica",
+    "contexto": null,
+    "pregunta": "En un paciente con SPP (Síndrome Post Polio) que presenta pie bailante encontraremos:",
+    "opciones": {
+      "a": "Pie equino rígido y pierna más corta y atrofiada.",
+      "b": "Pie equino varo y flexión de rodilla.",
+      "c": "Pierna más larga atrofiada y genu varo."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "La poliomielitis causa atrofia muscular por daño en la motoneurona inferior, deteniendo el crecimiento del miembro (dismetría con pierna corta) y generando desequilibrios que estructuran el pie en un equino rígido."
+  },
+  {
+    "id": 17,
+    "tema": "Patología Neurológica",
+    "contexto": null,
+    "pregunta": "En los pacientes con SPP (Síndrome Post Polio) al colocar un soporte plantar y/o alza intentaremos:",
+    "opciones": {
+      "a": "Nivelar la pelvis y mejorar o mantener la función existente del pie.",
+      "b": "Redistribuir presiones en el pie y cargar el mismo peso en ambas piernas.",
+      "c": "Fijar completamente las articulaciones del mediopié."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "El objetivo en una secuela de polio no es la corrección anatómica forzada, sino la compensación funcional: nivelar la dismetría con alzas para estabilizar la pelvis y usar el soporte para maximizar la escasa funcionalidad muscular residual."
+  },
+  {
+    "id": 18,
+    "tema": "Biomecánica de la Marcha",
+    "contexto": null,
+    "pregunta": "En una dismetría encontraremos que durante la fase de apoyo en el miembro corto se produce:",
+    "opciones": {
+      "a": "Colocación del talón en equino / flexión plantar.",
+      "b": "Tobillo dorsiflexionado.",
+      "c": "Hiperextensión de rodilla."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Para compensar el déficit de longitud y lograr que el pie llegue al suelo de forma eficiente, el paciente realiza un mecanismo de alargamiento funcional del miembro corto adoptando una marcha en equino (caminando de puntillas o con flexión plantar excesiva)."
+  },
+  {
+    "id": 19,
+    "tema": "Ortesis de Miembro Inferior",
+    "contexto": null,
+    "pregunta": "Indique cuál de las siguientes articulaciones de rodilla proporcionan estabilidad a la rodilla modificando la posición de la fuerza de reacción del suelo:",
+    "opciones": {
+      "a": "Monoaxial.",
+      "b": "Policéntricas.",
+      "c": "Eje retrasado."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Las articulaciones de rodilla con eje retrasado colocan el centro de rotación mecánico por detrás de la línea de carga del peso corporal. Esto genera un momento de extensión que bloquea mecánicamente la rodilla, aportando gran estabilidad."
+  },
+  {
+    "id": 20,
+    "tema": "Patología de Cadera",
+    "contexto": null,
+    "pregunta": "En un paciente con anteversión femoral la rotación externa de cadera estará:",
+    "opciones": {
+      "a": "Aumentada.",
+      "b": "Disminuida.",
+      "c": "Normal."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La anteversión femoral implica que el fémur está 'girado' hacia adentro (aumento de la rotación interna). Biomecánicamente, esto bloquea y disminuye de forma significativa el rango de rotación externa disponible en la articulación coxofemoral."
+  },
+  {
+    "id": 21,
+    "tema": "Ortopodología Infantil",
+    "contexto": null,
+    "pregunta": "Ante un niño con dolor en la rodilla se debe valorar siempre:",
+    "opciones": {
+      "a": "La torsión tibial.",
+      "b": "La cadera.",
+      "c": "El pie."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El dolor referido es un fenómeno clínico muy común en pediatría. Una patología grave de la cadera (como Perthes o Epifisiolisis) frecuentemente debuta como dolor aislado en la rodilla debido a la inervación compartida por el nervio obturador."
+  },
+  {
+    "id": 22,
+    "tema": "Biomecánica de la Marcha",
+    "contexto": null,
+    "pregunta": "Ante un paciente que durante la fase oscilante eleva la pelvis sospecharemos de:",
+    "opciones": {
+      "a": "Insuficiente flexión de cadera / rodilla.",
+      "b": "Excesiva flexión de cadera.",
+      "c": "Debilidad del glúteo medio del miembro que se encuentra en fase oscilante."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "La marcha en 'hip-hiking' o elevación pélvica es un mecanismo de compensación. Si el paciente no puede flexionar la rodilla o cadera para acortar el miembro durante el balanceo, eleva toda la pelvis para evitar que el pie arrastre por el suelo."
+  },
+  {
+    "id": 23,
+    "tema": "Ortopodología Infantil",
+    "contexto": null,
+    "pregunta": "En un paciente con síndrome de Down es frecuente encontrar:",
+    "opciones": {
+      "a": "Pie plano valgo y pie en sandalia.",
+      "b": "Ectrodactilia.",
+      "c": "Hallux limitus funcional."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "La hiperlaxitud ligamentosa y la hipotonía muscular propias de la trisomía 21 provocan el colapso del arco longitudinal (pie plano valgo severo) y una separación excesiva entre el primer y segundo dedo conocida como 'pie en sandalia'."
+  },
+  {
+    "id": 24,
+    "tema": "Prótesis y Amputaciones",
+    "contexto": null,
+    "pregunta": "El pie catastrófico se caracteriza por:",
+    "opciones": {
+      "a": "Requerir una reconstrucción o amputación.",
+      "b": "Presenta neuropatía indolora.",
+      "c": "Presenta alteraciones cutáneas severas y pérdida total de la arquitectura ósea."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El pie catastrófico es un término que define una extremidad destrozada por un evento traumático de alta energía, aplastamiento o infección masiva, donde la anatomía ósea y vascular está tan destruida que su viabilidad es crítica."
+  },
+  {
+    "id": 25,
+    "tema": "Biomecánica de la Marcha",
+    "contexto": null,
+    "pregunta": "En una dismetría funcional el principal objetivo es:",
+    "opciones": {
+      "a": "Igualar longitudes con un alza externa.",
+      "b": "Tratar la causa subyacente.",
+      "c": "Compensar la diferencia de longitud con plantillas."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Una dismetría funcional NO se debe a huesos de distinto tamaño, sino a asimetrías articulares o musculares (como una escoliosis espasmódica o una pronación asimétrica severa). Tratar con un alza fijaría la deformidad; el objetivo es tratar la causa biomecánica."
+  },
+  {
+    "id": 26,
+    "tema": "Prótesis y Amputaciones",
+    "contexto": null,
+    "pregunta": "Un paciente que ha sufrido una amputación en el pie presentará una mayor sobrecarga muscular compensatoria en:",
+    "opciones": {
+      "a": "El sóleo.",
+      "b": "El cuádriceps.",
+      "c": "Los isquiotibiales."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Al perder los mecanismos de propulsión y estabilización del antepié/tríceps sural, la rodilla pierde estabilidad y el cuádriceps debe hipertrofiarse y trabajar excesivamente para controlar el avance tibial y amortiguar el impacto."
+  },
+  {
+    "id": 27,
+    "tema": "Prótesis y Amputaciones",
+    "contexto": null,
+    "pregunta": "Tras una amputación en el pie, la marcha se caracteriza por presentar:",
+    "opciones": {
+      "a": "Una disminución en la longitud del paso del lado contralateral.",
+      "b": "Un aumento de la fase de apoyo del miembro amputado.",
+      "c": "Una marcha en guadaña."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Al carecer de un brazo de palanca eficiente (antepié) en la pierna amputada, el paciente no puede propulsarse hacia adelante con fuerza, lo que obliga a que el paso que da la pierna sana (contralateral) sea mucho más corto."
+  },
+  {
+    "id": 28,
+    "tema": "Prótesis y Amputaciones",
+    "contexto": null,
+    "pregunta": "Indique cuál de las siguientes amputaciones mayores a nivel del tobillo es más frecuente en adultos.",
+    "opciones": {
+      "a": "Symes.",
+      "b": "Pirogoff.",
+      "c": "Ambas son igual de frecuentes."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "La desarticulación del tobillo de Syme (que conserva la almohadilla del talón) es la amputación de retropié más común y exitosa en adultos frente a la de Pirogoff (osteotomía del calcáneo), por su menor tasa de complicaciones técnicas."
+  },
+  {
+    "id": 29,
+    "tema": "Prótesis y Amputaciones",
+    "contexto": null,
+    "pregunta": "El objetivo del tratamiento podológico en un paciente que ha sido tratado por pie catastrófico consiste en:",
+    "opciones": {
+      "a": "Regenerar los tejidos óseos.",
+      "b": "Evitar las infecciones primarias.",
+      "c": "Mejorar la funcionalidad y acomodar la deformidad residual."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Una vez salvado el miembro (tratamiento agudo), el rol del podólogo/ortopeda es aplicar ortesis de silicona, plantillas acomodativas y calzado a medida para proteger las prominencias óseas atípicas y restaurar la máxima funcionalidad posible."
+  },
+  {
+    "id": 30,
+    "tema": "Ortesis de Miembro Inferior",
+    "contexto": null,
+    "pregunta": "En la confección de un AFO para un paciente con Parálisis Cerebral Infantil (PCI), la plantilla interna del mismo pretende:",
+    "opciones": {
+      "a": "Situar el retropié en posición neutra y compensar la posición del antepié.",
+      "b": "Corregir la torsión tibial externa.",
+      "c": "Facilitar el movimiento rotacional de cadera."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "El plástico exterior del AFO estabiliza el tobillo, pero es la ortesis plantar adaptada en su interior la encargada de controlar el colapso del arco, alinear la articulación subastragalina a neutro y repartir presiones en el antepié."
+  },
+  {
+    "id": 31,
+    "tema": "Ortesis de Miembro Inferior",
+    "contexto": null,
+    "pregunta": "Ante un paciente con PCI, ¿en qué caso está indicada una AFO sólida (rígida)?",
+    "opciones": {
+      "a": "Con un pie flácido, inestable o con espasticidad severa incontrolable.",
+      "b": "Con una Plantarflexión de tobillo leve.",
+      "c": "Con un movimiento normal y controlado del tobillo."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "El AFO sólido (sin articulaciones) se prescribe cuando el déficit de control motor es total (pie flácido) o la espasticidad es tan agresiva que destrozaría una bisagra articulada, requiriendo un bloqueo absoluto de tobillo."
+  },
+  {
+    "id": 32,
+    "tema": "Cirugía Ortopédica",
+    "contexto": null,
+    "pregunta": "En el tratamiento quirúrgico de una coalición tarsal, ¿en qué caso se plantea una fusión articular (artrodesis) en lugar de resecar la barra?",
+    "opciones": {
+      "a": "Cuando deciden no tratar y mantener la fusión que ya existe.",
+      "b": "Cuando el tejido articular subyacente no está lesionado.",
+      "c": "Cuando el tejido articular circundante ya está severamente degenerado."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Si la coalición lleva años presente, la alteración mecánica habrá causado artrosis severa en las articulaciones vecinas. En este caso, simplemente resecar la barra no quitará el dolor articular; es necesario fusionar (artrodesar) la articulación completa."
+  },
+  {
+    "id": 33,
+    "tema": "Ortopodología Infantil",
+    "contexto": null,
+    "pregunta": "En un paciente con Síndrome de Down es necesario incluir en su terapia física:",
+    "opciones": {
+      "a": "Ejercicios de propiocepción.",
+      "b": "Estiramiento de la musculatura.",
+      "c": "Ambas son correctas."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Debido a la hiperlaxitud y la hipotonía, estos pacientes carecen de un buen control postural (requieren trabajo propioceptivo) y adoptan posturas anómalas que acortan ciertos grupos musculares (requieren estiramientos compensatorios)."
+  },
+  {
+    "id": 34,
+    "tema": "Ortesis de Miembro Inferior",
+    "contexto": null,
+    "pregunta": "Una férula que abarca desde la cadera hasta los pies se denomina:",
+    "opciones": {
+      "a": "AFO.",
+      "b": "KAFO.",
+      "c": "HKAFO."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Por sus siglas en inglés: Hip-Knee-Ankle-Foot Orthosis (Ortesis de Cadera-Rodilla-Tobillo-Pie). Un AFO llega hasta bajo la rodilla, y un KAFO abarca desde el muslo al pie."
+  },
+  {
+    "id": 35,
+    "tema": "Prótesis y Amputaciones",
+    "contexto": null,
+    "pregunta": "En una amputación de Lisfranc el muñón tiende a situarse con el tiempo en:",
+    "opciones": {
+      "a": "Equino varo.",
+      "b": "Talo varo.",
+      "c": "Valgo."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Al amputar a nivel tarso-metatarsal (Lisfranc), se elimina la inserción de los dorsiflexores (tibial anterior, extensores) y peroneos. La tracción sin oposición del tendón de Aquiles y el tibial posterior tracciona el muñón estructurándolo en equino-varo."
+  },
+  {
+    "id": 36,
+    "tema": "Biomecánica de la Marcha",
+    "contexto": null,
+    "pregunta": "Ante una diferencia de longitud de los miembros inferiores, el miembro más largo durante la fase estante compensa mediante la:",
+    "opciones": {
+      "a": "Eversión excesiva de la articulación subastragalina.",
+      "b": "Inversión de la articulación subastragalina.",
+      "c": "Flexión mantenida de la rodilla y/o pronación subtalar."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Para igualar la altura de la pelvis y evitar el impacto violento, la pierna más larga tiene que 'acortarse' funcionalmente. Lo logra aumentando la flexión de la rodilla y pronando (eversión) el pie masivamente para colapsar el arco."
+  },
+  {
+    "id": 37,
+    "tema": "Prótesis y Amputaciones",
+    "contexto": null,
+    "pregunta": "Un pie protésico SACH se compone de:",
+    "opciones": {
+      "a": "Un bloque rígido de madera o carbono.",
+      "b": "Un bloque rígido con un antepié articulado.",
+      "c": "Un talón blando, una parte central rígida y un antepié flexible."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "SACH significa Solid Ankle Cushion Heel (Tobillo Sólido, Talón Amortiguado). Su interior es un núcleo rígido de madera/plástico, rodeado de espuma para simular la flexión del antepié y una cuña blanda en el talón que absorbe el impacto inicial."
+  },
+  {
+    "id": 38,
+    "tema": "Patología de Rodilla",
+    "contexto": null,
+    "pregunta": "A su consulta acude un paciente de 5 años de edad, con un valor del ángulo femoro-tibial medido sobre telerradiografía de 12º en valgo y una separación intermaleolar de 5 cm. Usted lo consideraría:",
+    "opciones": {
+      "a": "Genu valgo patológico, porque los valores son superiores a los normales a esa edad.",
+      "b": "Genu valgo fisiológico, porque los valores son normales a esa edad.",
+      "c": "Genu valgo patológico, porque el valor angular es normal pero la distancia es mayor."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El desarrollo angular de las rodillas infantiles alcanza su máximo pico de genu valgo (piernas en X) fisiológico entre los 3 y 5 años (pudiendo llegar a 10º-15º y hasta 8 cm intermaleolares), corrigiéndose progresivamente hacia los 7 años."
+  },
+  {
+    "id": 39,
+    "tema": "Patología de Rodilla",
+    "contexto": null,
+    "pregunta": "Se considera que una tibia vara puede evolucionar desfavorablemente (Enfermedad de Blount) y es preciso observar la evolución estrechamente si:",
+    "opciones": {
+      "a": "El ángulo metafiso-diafisario (Ángulo de Drennan) es mayor de 11º.",
+      "b": "Hay metatarsus adductus asociado.",
+      "c": "No hay antecedentes familiares de tibia vara."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "El ángulo de Drennan mide la relación entre la metáfisis y la diáfisis tibial. Si este ángulo es superior a 11º-16º, existe un alto riesgo de que el varo no sea fisiológico y progrese hacia una Enfermedad de Blount (necrosis de la fisis medial)."
+  },
+  {
+    "id": 40,
+    "tema": "Ayudas a la Marcha",
+    "contexto": null,
+    "pregunta": "Un bastón excesivamente largo obliga a:",
+    "opciones": {
+      "a": "Inclinar el tronco hacia delante.",
+      "b": "Caminar con el tronco inclinado hacia el lado contralateral o elevar excesivamente el hombro.",
+      "c": "Flexionar el codo en exceso."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Si el bastón es demasiado largo, el paciente no puede apoyarlo cómodamente, por lo que se ve forzado a inclinar la columna hacia el lado contrario para dar espacio, o a encoger el hombro, causando graves contracturas cervicales y lumbares."
+  },
+  {
+    "id": 41,
+    "tema": "Patología Neurológica",
+    "contexto": null,
+    "pregunta": "La marcha en 'tijera' se asocia clínicamente con:",
+    "opciones": {
+      "a": "Hipertonía o espasticidad de los músculos aductores de cadera.",
+      "b": "Anteversión femoral masiva.",
+      "c": "Debilidad de los abductores de cadera."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Muy característica en la Diplejía Espástica (Parálisis Cerebral). La hipertonía de los músculos aductores cruza las rodillas y las piernas una por delante de la otra al caminar, simulando el cierre de unas tijeras."
+  },
+  {
+    "id": 42,
+    "tema": "Patología de Rodilla",
+    "contexto": null,
+    "pregunta": "Si en la exploración de un niño de 10 años de edad, se observa un genu flexo, se considera:",
+    "opciones": {
+      "a": "Normal si es inferior a 10º.",
+      "b": "Normal si se asocia con un genu varo.",
+      "c": "Nunca se considera normal a esa edad."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El genu flexo fisiológico (flexión de rodillas residual del útero materno) solo es normal en recién nacidos y lactantes, resolviéndose al iniciar la marcha. A los 10 años indica patología estructurada (acortamiento isquiosural, parálisis, etc)."
+  },
+  {
+    "id": 43,
+    "tema": "Calzados y Modificaciones",
+    "contexto": null,
+    "pregunta": "Si la prótesis para un paciente amputado a nivel de Chopart se incluye dentro de un AFO envolvente, el mejor calzado terapéutico para alojarlo es:",
+    "opciones": {
+      "a": "Un botín que estabilice el cuello del pie.",
+      "b": "Un zapato bajo estándar.",
+      "c": "Ya lleva una suela en balancín y no necesita calzado."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Las amputaciones de retropié con prótesis requieren anclajes mecánicos amplios. Un botín proporciona la apertura y profundidad extra necesarias, al tiempo que brinda la estabilidad sobre el cuello del tobillo que un zapato bajo no puede ofrecer."
+  },
+  {
+    "id": 44,
+    "tema": "Cirugía Ortopédica",
+    "contexto": null,
+    "pregunta": "La artrodesis en la articulación tibio-peroneo-astragalina (tobillo) puede ocasionar como secuela a largo plazo:",
+    "opciones": {
+      "a": "Una artrosis degenerativa en la articulación mediotarsiana.",
+      "b": "Debilidad del músculo sóleo.",
+      "c": "Debilidad del músculo cuádriceps."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Al bloquear quirúrgicamente la flexo-extensión del tobillo, todo el estrés biomecánico del paso se transfiere a las articulaciones adyacentes (subastragalina y Chopart/mediotarsiana), provocando un desgaste prematuro y artrosis vecinal secundaria."
+  },
+  {
+    "id": 45,
+    "tema": "Prótesis y Amputaciones",
+    "contexto": null,
+    "pregunta": "Un encaje protésico KBM (Kondylen Bettung Münster) presenta:",
+    "opciones": {
+      "a": "Apoyo en el tendón rotuliano y los laterales suben por encima de los cóndilos femorales.",
+      "b": "Apoyo por encima de la rótula y los laterales suben por encima de los cóndilos femorales.",
+      "c": "Apoyo en el tendón rotuliano y los aletas laterales llegan hasta el borde o abrazan los cóndilos."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El encaje KBM distribuye la carga bajo el tendón rotuliano (dejando la rótula descubierta) y posee dos aletas que abrazan los cóndilos femorales medial y lateral para lograr una excelente suspensión medio-lateral sin limitar la flexión de rodilla."
+  },
+  {
+    "id": 46,
+    "tema": "Patología Reumática",
+    "contexto": null,
+    "pregunta": "La causa más común de monoartritis aguda severa en el adulto en el pie es:",
+    "opciones": {
+      "a": "Gota (depósito de cristales de urato).",
+      "b": "Artritis reumatoide.",
+      "c": "Artritis reactiva."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "La primera crisis de Gota suele debutar clásicamente como una inflamación aguda y extremadamente dolorosa de una sola articulación, siendo la 1ª articulación metatarsofalángica el objetivo principal en más del 70% de los casos (Podagra)."
+  },
+  {
+    "id": 47,
+    "tema": "Ortesis Plantares",
+    "contexto": null,
+    "pregunta": "A su consulta acude un paciente que tras la exploración clínica (test de Jack) es diagnosticado de Hallux Limitus Funcional. El tratamiento conservador consistiría en:",
+    "opciones": {
+      "a": "Ortesis plantar con extensión rígida de Morton.",
+      "b": "Ortesis plantar con un corte o rebaje subcapital del primer radio (Kinetic wedge).",
+      "c": "Calzado rígido."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "En el limitus funcional, la articulación no está artrósica, solo bloqueada mecánicamente porque el 1er metatarsiano no desciende. Al colocar una ventana de descarga (Kinetic Wedge), el metatarsiano cae, permitiendo que la falange pivote y restaurando la flexión."
+  },
+  {
+    "id": 48,
+    "tema": "Ortopodología Infantil",
+    "contexto": null,
+    "pregunta": "Indique cuál de las siguientes ortesis es la más utilizada universalmente en el tratamiento de la Displasia de Cadera en Desarrollo al no forzar una abducción rígida (riesgo de necrosis):",
+    "opciones": {
+      "a": "Pañal de Frejka.",
+      "b": "Férula de Von Rosen.",
+      "c": "Arnés de Pavlik."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El Arnés de Pavlik es dinámico. Mantiene las piernas en flexión y abducción suave permitiendo movimiento activo. Esto recentra la cabeza femoral evitando la isquemia vascular que causaban las férulas rígidas antiguas 'en rana' (como Frejka)."
+  },
+  {
+    "id": 49,
+    "tema": "Patología Neurológica",
+    "contexto": null,
+    "pregunta": "En la Parálisis Cerebral Infantil (PCI), la marcha en cuclillas (crouch gait) es característica de la:",
+    "opciones": {
+      "a": "Diplejía espástica.",
+      "b": "Hemiplejía.",
+      "c": "Ataxia cerebral."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "En la Diplejía espástica, hay una sobreactivación y retracción de los isquiotibiales y flexores de cadera, combinada con debilidad del tríceps sural, forzando al niño a caminar con las caderas y rodillas constantemente flexionadas (en cuclillas)."
+  },
+  {
+    "id": 50,
+    "tema": "Patología Infantil",
+    "contexto": null,
+    "pregunta": "A su consulta acude un varón de 10 años por dolor recurrente a la deambulación. En la exploración observa un pie plano rígido y espasmo peroneo, y el paciente no es capaz de supinarse al ponerse de puntillas. Sospechará de:",
+    "opciones": {
+      "a": "Coalición astrágalo-calcánea.",
+      "b": "Coalición calcáneo-escafoidea.",
+      "c": "Coalición metatarso-cuneana."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "La coalición astrágalo-calcánea suele osificarse y dar sintomatología rígida (pie plano espástico peroneo y test de elevación de talones negativo) alrededor de los 12-16 años, mientras que la calcáneo-escafoidea lo hace ligeramente antes (8-12 años). Sin embargo, ambas cursan con rigidez subtalar."
+  },
+  {
+    "id": 51,
+    "tema": "Ortesis Plantares",
+    "contexto": null,
+    "pregunta": "En el diseño de las ortesis plantares en pacientes con Parálisis Cerebral Infantil, el objetivo fundamental inicial es:",
+    "opciones": {
+      "a": "Situar el retropié en posición neutra y compensar las alteraciones del antepié.",
+      "b": "Facilitar el movimiento máximo en la articulación subastragalina.",
+      "c": "Realizar la ortesis siempre con materiales extremadamente blandos."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "La base del tratamiento ortésico en parálisis cerebral es otorgar una plataforma estable. Bloquear o controlar el valgo del retropié y postear firmemente las deformidades de antepié evita el colapso y mejora el brazo de palanca al caminar."
+  },
+  {
+    "id": 52,
+    "tema": "Pie Diabético",
+    "contexto": null,
+    "pregunta": "Indique cuál de los siguientes hallazgos en un paciente portador de un TCC (Yeso de Contacto Total) debería hacer que acudiera de urgencia a un profesional:",
+    "opciones": {
+      "a": "Comienzo súbito de fiebre, escalofríos o mal olor.",
+      "b": "Picores severos incontrolables o manchas extrañas en el material.",
+      "c": "Todas las respuestas son correctas y son signos de alarma."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Al llevar una úlcera encapsulada, cualquier olor, mancha purulenta que traspase el yeso o pico sistémico de fiebre indican una infección no controlada bajo la escayola. Es una emergencia que requiere la retirada inmediata del dispositivo."
+  },
+  {
+    "id": 53,
+    "tema": "Ayudas a la Marcha",
+    "contexto": null,
+    "pregunta": "Prescribe un bastón para descargar parcialmente un pie doloroso a un paciente que padece parálisis del tríceps braquial. ¿Cuál sería el dispositivo más adecuado?",
+    "opciones": {
+      "a": "Bastón inglés estándar.",
+      "b": "Bastón de mano clásico con empuñadura anatómica.",
+      "c": "Bastón inglés modificado con apoyo en canaleta de antebrazo (plataforma)."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El tríceps braquial es el encargado de extender y bloquear el codo para transmitir el peso al bastón. Si está paralizado, el brazo colapsaría. Un bastón con plataforma horizontal permite descargar el peso directamente sobre el antebrazo, puenteando el codo."
+  },
+  {
+    "id": 54,
+    "tema": "Estadística y Biometría",
+    "contexto": null,
+    "pregunta": "En ciencias de la salud, se define un valor de \"normalidad\" anatómica cuando se sitúa estadísticamente:",
+    "opciones": {
+      "a": "Exactamente en la media de ese valor poblacional.",
+      "b": "Por encima del percentil 50 de ese valor.",
+      "c": "Entre los percentiles 5 y 95 de la población sana de referencia."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "En medicina, la 'normalidad' no es un número absoluto, sino un rango de distribución Gaussiana. Se considera normal cualquier parámetro biológico que caiga dentro del 90% central de la curva de campana (entre los percentiles 5 y 95)."
+  },
+  {
+    "id": 55,
+    "tema": "Ortopodología Infantil",
+    "contexto": null,
+    "pregunta": "En un paciente con Síndrome de Down, las ortesis plantares de control biomecánico deben aplicarse:",
+    "opciones": {
+      "a": "Desde el primer día de vida.",
+      "b": "No debe aplicarse hasta que el niño adquiera la marcha y el equilibrio independiente.",
+      "c": "Solo durante las horas de sueño."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Poner plantillas o botas correctoras severas a un niño hipotónico que está aprendiendo a gatear/ponerse de pie retrasa su desarrollo neuromotor. Se debe esperar a que logren bipedestación y marcha autónoma para iniciar el tratamiento ortésico."
+  },
+  {
+    "id": 56,
+    "tema": "Ortesis de Miembro Inferior",
+    "contexto": null,
+    "pregunta": "En una KAFO convencional prescrita para el tratamiento del genu valgo (piernas en X), la barra metálica estabilizadora se sitúa por la:",
+    "opciones": {
+      "a": "Cara interna de la pierna.",
+      "b": "Cara externa (lateral) de la pierna.",
+      "c": "Cara posterior de la pierna."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "En el genu valgo, las rodillas se juntan en el centro. La barra rígida de la férula debe ir en la cara externa de la pierna, para colocar una cincha en la rodilla (tracción hacia lateral) y abrir el ángulo deformante basándose en 3 puntos de presión."
+  },
+  {
+    "id": 57,
+    "tema": "Ortopodología Infantil",
+    "contexto": null,
+    "pregunta": "En un lactante menor de 6 meses diagnosticado de metatarsus aductus de grado I (leve y flexible), el tratamiento de primera línea es:",
+    "opciones": {
+      "a": "Yesos seriados desde la ingle hasta los dedos.",
+      "b": "Observación activa y fisioterapia con estiramientos manuales por los padres.",
+      "c": "Cirugía liberadora."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El metatarsus adductus leve en los primeros meses de vida tiene una altísima tasa de resolución espontánea. La instrucción a los padres para que realicen estiramientos gentiles del antepié en cada cambio de pañal es el protocolo de oro."
+  },
+  {
+    "id": 58,
+    "tema": "Biomecánica de la Marcha",
+    "contexto": null,
+    "pregunta": "En la marcha, durante el 2º rodillo o 'rocker' de tobillo, observa en un paciente cómo la tibia se adelanta rápida y descontroladamente. Indique qué músculo está fallando excéntricamente:",
+    "opciones": {
+      "a": "Tibial anterior.",
+      "b": "Tríceps Sural (Complejo Gastrocnemio-Sóleo).",
+      "c": "Cuádriceps femoral."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Durante el avance del cuerpo sobre el pie apoyado, los músculos de la pantorrilla (especialmente el sóleo) deben contraerse excéntricamente para frenar la caída de la tibia. Si fallan, la tibia colapsa hacia delante bruscamente."
+  },
+  {
+    "id": 59,
+    "tema": "Ortesis Plantares",
+    "contexto": null,
+    "pregunta": "Ante un paciente con una artrosis severa secundaria en la articulación subastragalina que cursa con gran dolor a la mínima movilidad de pronosupinación, el tratamiento conservador más eficaz consistiría en:",
+    "opciones": {
+      "a": "Plantilla fina acomodativa de silicona blanda.",
+      "b": "Ortesis con kinetic wedge para dar movimiento.",
+      "c": "AFO rígido con diseño estabilizador del retropié."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El tejido artrósico duele al rozar. Una plantilla blanda no detiene los micro-movimientos articulares en el zapato. Un AFO o botín rígido inmoviliza la articulación, suprimiendo la fricción y cortando el dolor mecánico."
+  },
+  {
+    "id": 60,
+    "tema": "Ortopodología Infantil",
+    "contexto": null,
+    "pregunta": "Ante un paciente varón de 12 años diagnosticado mediante TAC de coalición tarsal astrágalo-calcánea sintomática, ¿qué tipo de ortesis plantar inicial realizaría antes de optar por la cirugía?",
+    "opciones": {
+      "a": "Ortesis muy blanda de amortiguación (Plastazote).",
+      "b": "Ortesis semirrígida a tolerar.",
+      "c": "Ortesis totalmente rígida (Polipropileno) con bloqueo de retropié (UCBL)."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Las coaliciones generan espasmos dolorosos cada vez que la articulación intenta moverse. El objetivo ortopédico es bloquear la articulación y anular el estrés sobre la barra ósea, lo que solo se consigue con materiales de alto control y rigidez."
+  },
+  {
+    "id": 61,
+    "tema": "Patología Neurológica",
+    "contexto": null,
+    "pregunta": "En un paciente post-ictus en fase de espasticidad severa, la posición del tobillo estará condicionada y deformada permanentemente por:",
+    "opciones": {
+      "a": "La longitud y el tono incontrolado de la musculatura posterior de la pierna (gemelos y sóleo).",
+      "b": "La potencia de los músculos dorsiflexores.",
+      "c": "La flacidez generalizada de la articulación."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "El patrón espástico clásico del miembro inferior tras un daño de la neurona motora superior incluye hipertonía extensora. Los fuertes flexores plantares (tríceps sural) vencen a los débiles dorsiflexores, estructurando el tobillo en equino severo."
+  },
+  {
+    "id": 62,
+    "tema": "Patología de Cadera",
+    "contexto": null,
+    "pregunta": "La férula de Atlanta y la de Toronto se han utilizado históricamente en el tratamiento ortopédico de:",
+    "opciones": {
+      "a": "Genu valgo severo.",
+      "b": "Epifisiolisis de cadera.",
+      "c": "Enfermedad de Legg-Calvé-Perthes (Necrosis avascular)."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Estas férulas mantenían las piernas del niño extremadamente abiertas (abducción y rotación interna) para asegurar que la cabeza femoral que se estaba necrosando y deformando quedase centrada dentro del molde del acetábulo mientras se regeneraba."
+  },
+  {
+    "id": 63,
+    "tema": "Ortopodología Infantil",
+    "contexto": null,
+    "pregunta": "Sospecharemos clínicamente que un paciente presenta una torsión tibial interna estructural cuando:",
+    "opciones": {
+      "a": "Marcha con las puntas hacia fuera (abducción).",
+      "b": "Sus rótulas miran al frente pero los pies apuntan marcadamente hacia adentro (aducto).",
+      "c": "Cuando en sedestación relajada la punta del pie se dirige en abducción."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El diagnóstico diferencial clave. Si el niño camina con las puntas hacia adentro, miramos sus rodillas: si las rótulas miran hacia dentro, el problema nace en el fémur. Si las rótulas están rectas pero la tibia y el pie giran hacia dentro, hay torsión tibial."
+  },
+  {
+    "id": 64,
+    "tema": "Biomecánica de la Marcha",
+    "contexto": null,
+    "pregunta": "A su consulta acude un varón de 35 años. Durante la exploración observa que en la fase de apoyo monopodal presenta una hiperextensión brusca de rodilla (Genu Recurvatum dinámico). Podría deberse a:",
+    "opciones": {
+      "a": "Debilidad de los flexores de rodilla.",
+      "b": "Un ligero equino fijo de tobillo o un espasmo del tríceps sural.",
+      "c": "Contractura masiva de isquiotibiales."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Si el tobillo no puede dorsiflexionar para dejar avanzar a la tibia sobre el pie, el cuerpo se ve forzado a propulsarse hacia adelante provocando que la rodilla ceda hacia atrás en hiperextensión para lograr avanzar el centro de gravedad."
+  },
+  {
+    "id": 65,
+    "tema": "Ortopodología Infantil",
+    "contexto": null,
+    "pregunta": "El Método Funcional Francés en el tratamiento conservador temprano del pie equino varo congénito se basa esencialmente en:",
+    "opciones": {
+      "a": "El uso exclusivo de yesos rígidos hasta el muslo.",
+      "b": "Manipulaciones fisioterapéuticas diarias intensivas continuadas con vendajes elásticos y férulas de termoplástico.",
+      "c": "Cirugía preventiva en la primera semana de vida."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "A diferencia del método Ponseti (yesos de escayola semanales), la escuela francesa se basa en la fisioterapia continua impartida por un profesional cada día, movilizando las articulaciones y manteniendo la corrección ganada con vendas elásticas 'tape'."
+  },
+  {
+    "id": 66,
+    "tema": "Patología de Rodilla",
+    "contexto": null,
+    "pregunta": "Ante un paciente con condropatía rotuliana (Síndrome de hiperpresión externa), la rodillera de elección que debemos prescribir sería:",
+    "opciones": {
+      "a": "Rodillera de neopreno completamente cerrada.",
+      "b": "Rodillera abierta con un soporte o herradura medial.",
+      "c": "Rodillera abierta con refuerzo inferior (bajo tendón rotuliano)."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "En la condromalacia/condropatía, la rótula suele luxarse o traccionar excesivamente hacia la parte externa del fémur. Una herradura de silicona empujando desde lateral hacia medial ayuda a centrar mecánicamente la rótula en su carril."
+  },
+  {
+    "id": 67,
+    "tema": "Biomecánica de la Marcha",
+    "contexto": null,
+    "pregunta": "Indique qué músculo de la pierna es responsable de frenar la rápida caída del pie contra el suelo tras el contacto inicial del talón (1º rodillo):",
+    "opciones": {
+      "a": "Cuádriceps.",
+      "b": "Músculo Tibial Anterior (contracción excéntrica).",
+      "c": "Sóleo."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El tibial anterior, junto con los extensores de los dedos, actúa como un amortiguador. Se contrae mientras se alarga (excéntrico) para bajar el antepié suavemente. Si este músculo se paraliza, el paciente sufre una marcha en 'slap-foot' o pie caído."
+  },
+  {
+    "id": 68,
+    "tema": "Patología Reumática",
+    "contexto": null,
+    "pregunta": "Ante un paciente con una inflamación articular severa y una rigidez matutina generalizada de las articulaciones que dura más de 30-60 minutos tras levantarse, sospecharemos clínicamente de:",
+    "opciones": {
+      "a": "Osteoartritis degenerativa.",
+      "b": "Ataque agudo de podagra.",
+      "c": "Artritis Reumatoide o procesos autoinmunes."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La rigidez matutina que cede en pocos minutos es típica de la artrosis mecánica. Sin embargo, una rigidez en gel pesada que dura más de una hora, acompañada de inflamación simétrica, es un criterio diagnóstico claro de la artritis reumatoide."
+  },
+  {
+    "id": 69,
+    "tema": "Biomecánica de la Marcha",
+    "contexto": null,
+    "pregunta": "Durante la fase oscilante del miembro derecho, el músculo encargado de mantener la pelvis estable y evitar que el lado derecho colapse hacia el suelo será:",
+    "opciones": {
+      "a": "El Glúteo Medio del miembro izquierdo (pierna de apoyo).",
+      "b": "El Glúteo Medio del miembro derecho.",
+      "c": "El Músculo Psoas Ilíaco de forma bilateral."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "La estabilidad pélvica la proporciona el lado que soporta el peso. Cuando levantas la pierna derecha, el glúteo medio de la pierna izquierda trabaja al máximo anclando la cadera al fémur para evitar que la hemipelvis libre se desplome (Signo de Trendelenburg)."
+  },
+  {
+    "id": 70,
+    "tema": "Pie Diabético",
+    "contexto": null,
+    "pregunta": "Indique cuál de las siguientes opciones está respaldada por el IWGDF como la primera línea de acción innegociable para favorecer la cicatrización en una úlcera plantar neuropática en un paciente diabético sin isquemia severa ni infección diseminada:",
+    "opciones": {
+      "a": "Adaptar fieltros adhesivos con un zapato ancho.",
+      "b": "Dispositivo de descarga removible tipo bota Walker.",
+      "c": "Dispositivo de descarga NO removible tipo Yeso de Contacto Total (TCC)."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La evidencia clínica es abrumadora: las úlceras plantares no curan si el paciente las pisa. El dispositivo 'No Removible' es la 1ª opción porque elimina el factor de 'no adherencia del paciente', asegurando un 100% de descarga las 24 horas del día."
+  },
+  {
+    "id": 71,
+    "tema": "Calzados y Modificaciones",
+    "contexto": null,
+    "pregunta": "Indique cuál de los siguientes estilos de calzado NO estarían indicados en absoluto para una paciente con una neuropatía diabética severa de Charcot:",
+    "opciones": {
+      "a": "Zapato abotinado amplio de cordones.",
+      "b": "Zapato modelo Blucher de suela gruesa.",
+      "c": "Zapatos tipo Merceditas (Mary Janes) o bailarinas."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Un pie de Charcot tiene la estructura ósea deformada y colapsada, requiriendo un soporte extremo en el mediopié, suela rígida y capacidad para alojar plantillas a medida. Las 'merceditas' carecen de empeine, contrafuerte y rigidez estructural, resultando peligrosísimas."
+  },
+  {
+    "id": 72,
+    "tema": "Ortesis Plantares",
+    "contexto": null,
+    "pregunta": "En el tratamiento conservador del hallux limitus funcional, la adaptación ortésica conocida como 'Cuña de Cluffy' (Cluffy wedge) se sitúa anatómicamente:",
+    "opciones": {
+      "a": "Bajo la cabeza del 1er metatarsiano.",
+      "b": "Exclusivamente bajo la falange proximal del hallux (1er dedo).",
+      "c": "Como un balancín bajo el tarso."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La cuña de Cluffy es una almohadilla de EVA pre-tensada que se coloca bajo el pulpejo y falange del dedo gordo. Al elevar la falange ligeramente, tensa la fascia plantar y facilita que la articulación MPJ sobrepase mecánicamente su punto de bloqueo dinámico."
+  },
+  {
+    "id": 73,
+    "tema": "Ortesis Plantares",
+    "contexto": null,
+    "pregunta": "En el tratamiento de una diferencia de longitud de miembros inferiores (dismetría real), ¿por cada centímetro de altura que se incrementa el alza de talón, cuánto material se debe incorporar a la zona del antepié para evitar un efecto de 'andar cuesta abajo'?",
+    "opciones": {
+      "a": "Nada, no es necesario.",
+      "b": "Aproximadamente 1 mm o porcentaje equivalente de pico de pato anterior.",
+      "c": "La misma cantidad exacta en todo el zapato."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Regla biomecánica de la compensación: Si alzas mucho el talón sin modificar la puntera, provocas un equinismo forzado dañino para los metatarsianos. Se añade grosor anterior (pico de pato) en una proporción mucho menor para mantener el plano de la suela estable."
+  },
+  {
+    "id": 74,
+    "tema": "Patología Neurológica",
+    "contexto": null,
+    "pregunta": "En un paciente con parálisis cerebral infantil, la adición a su AFO de una Férula de Reacción del Suelo (FRO) tiene el objetivo biomecánico de:",
+    "opciones": {
+      "a": "Restablecer mecánicamente el par de fuerzas flexión plantar/extensión de rodilla.",
+      "b": "Permitir la caída libre del tobillo.",
+      "c": "Alinear exclusivamente el varo/valgo del talón."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "La férula de reacción al suelo (FRO / GRAFO) tiene un soporte anterior bajo la rodilla. Cuando el pie pisa el suelo en un ángulo de ligera flexión plantar, este diseño empuja la tibia hacia atrás, forzando y bloqueando la extensión de rodilla en pacientes con marcha agachada."
+  },
+  {
+    "id": 75,
+    "tema": "Ortopodología Infantil",
+    "contexto": null,
+    "pregunta": "Durante el desarrollo ortopédico del niño sano, la torsión tibial interna fisiológica con la que nacemos:",
+    "opciones": {
+      "a": "Aumenta gravemente con la edad.",
+      "b": "Se mantiene en los mismos grados desde el nacimiento.",
+      "c": "Disminuye progresivamente con la edad y el inicio de la deambulación."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Debido a la posición fetal, los niños nacen con las tibias torcidas hacia adentro. Al empezar a caminar, el crecimiento óseo natural y el estrés mecánico provocan que la tibia rote progresivamente hacia el exterior hasta alcanzar los 15-20º normales del adulto."
+  },
+  {
+    "id": 76,
+    "tema": "Cirugía Ortopédica",
+    "contexto": null,
+    "pregunta": "Indique cuál de los siguientes ligamentos intracapsulares de la rodilla NO tiene capacidad de autocuración vascularizada tras una rotura completa:",
+    "opciones": {
+      "a": "Ligamento cruzado anterior (LCA).",
+      "b": "Ligamento lateral interno.",
+      "c": "Ligamento colateral fibular."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "El Ligamento Cruzado Anterior se encuentra dentro de la articulación y está bañado por líquido sinovial. Al romperse, el sangrado no forma un coágulo estable que actúe de andamio celular, impidiendo totalmente su cicatrización espontánea (requiere plastia)."
+  },
+  {
+    "id": 77,
+    "tema": "Ortesis de Miembro Inferior",
+    "contexto": null,
+    "pregunta": "En el tratamiento ortésico de la enfermedad de Legg-Calvé-Perthes infantil, ¿cuál es el objetivo de utilizar aparatos voluminosos en abducción?",
+    "opciones": {
+      "a": "Hacer que el niño no camine.",
+      "b": "Forzar un genu varo compensatorio.",
+      "c": "Mantener la cabeza del fémur esférica alojada profunda y constantemente dentro del techo acetabular."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "En la necrosis de Perthes, la cabeza del fémur se vuelve de 'plastilina'. Las ortesis de abducción obligan a que el fémur quede perfectamente embutido dentro de la copa del acetábulo pélvico, usándolo como un molde maestro para que el hueso cicatrice de forma redonda."
+  },
+  {
+    "id": 78,
+    "tema": "Ortopodología Infantil",
+    "contexto": null,
+    "pregunta": "En el tratamiento del metatarso aducto infantil, las férulas o yesos deben ejercer fuerzas correctoras en 3 puntos clave:",
+    "opciones": {
+      "a": "Talón posterior, primer metatarsiano y calcáneo.",
+      "b": "Zona proximal del I metatarsiano, zona medial del calcáneo, y contrafuerza en la base del V metatarsiano.",
+      "c": "Zona proximal del I metatarsiano, zona lateral del calcáneo, y base del V metatarsiano."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Regla biomecánica universal de 3 puntos: La deformidad empuja hacia medial (I meta y calcáneo). Se ejerce presión contraria desde el centro de esa deformidad (la articulación de Lisfranc, representada por el ápice externo en la base del V metatarsiano) y dos fuerzas de palanca en los extremos mediales opuestos."
+  },
+  {
+    "id": 79,
+    "tema": "Prótesis y Amputaciones",
+    "contexto": null,
+    "pregunta": "En el caso de amputaciones aisladas de radios centrales del pie (2º o 3er dedo con su metatarsiano), es fundamental de cara a la biomecánica posterior:",
+    "opciones": {
+      "a": "Protetizar rellenando el espacio lo antes posible.",
+      "b": "No utilizar calzado convencional.",
+      "c": "Dejar el hueco vacío para favorecer la hipertrofia ósea."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "El pie humano está diseñado como una bóveda unida. Si se extirpa un radio central y no se introduce una silicona o prótesis expansiva de inmediato, el 1er y 5º metatarsiano colapsarán hacia el centro cerrando la pinza, destrozando por completo la estructura del pie remanente."
+  },
+  {
+    "id": 80,
+    "tema": "Cirugía Ortopédica",
+    "contexto": null,
+    "pregunta": "Una coalición tarsal en la que los huesos están unidos por tejido exclusivamente fibroso denso pero no osificado, se denomina en la literatura médica:",
+    "opciones": {
+      "a": "Sindesmosis.",
+      "b": "Sincondrosis.",
+      "c": "Sinostosis."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Terminología articular: Sindesmosis (unión por tejido fibroso), Sincondrosis (unión por cartílago hialino o fibrocartílago), Sinostosis (fusión total por tejido óseo consolidado)."
+  },
+  {
+    "id": 81,
+    "tema": "Ayudas a la Marcha",
+    "contexto": null,
+    "pregunta": "Con la utilización de un andador neuropático que inmoviliza y eleva el pie ulcerado del suelo, es preciso a nivel pélvico:",
+    "opciones": {
+      "a": "Ajustar inmediatamente la altura del calzado contralateral con un alza.",
+      "b": "No hacer nada, la cadera se flexibiliza sola.",
+      "c": "Utilizar muletas axilares obligatoriamente."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Las botas de descarga Walker o andadores añaden entre 3 y 5 centímetros a la pierna lesionada. Si no se compensa la zapatilla del pie sano con una plataforma equivalente, provocaremos una dismetría masiva causando lumbalgias y tendinopatías en pocos días."
+  },
+  {
+    "id": 82,
+    "tema": "Biomecánica de la Marcha",
+    "contexto": null,
+    "pregunta": "En un paciente con Parálisis Cerebral Infantil o Ataxia severa, indique con cuál de los siguientes dispositivos de ayuda a la marcha se obtiene una base de sustentación mucho más amplia y segura:",
+    "opciones": {
+      "a": "Bastón simple de madera.",
+      "b": "Bastones ingleses bilaterales.",
+      "c": "Andador o andador con ruedas posteriores."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El andador proporciona 4 puntos de apoyo constantes frente al cuerpo, creando un polígono de sustentación enorme que previene la caída lateral, ideal para pacientes con déficit cerebeloso de equilibrio grave."
+  },
+  {
+    "id": 83,
+    "tema": "Pie Diabético",
+    "contexto": null,
+    "pregunta": "En un paciente diabético con un ITB (Índice Tobillo-Brazo) de 0.4 que acude con una úlcera necrótica en el talón, la aplicación de terapia de compresión, vendajes tensos o un Yeso de Contacto total está:",
+    "opciones": {
+      "a": "Indicada como primera línea.",
+      "b": "Contraindicada, ya que sufre isquemia crítica.",
+      "c": "Solo indicada si lleva pomadas antibióticas."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Un ITB inferior a 0.5 indica Enfermedad Arterial Periférica severa. No llega sangre al pie. Cualquier elemento que comprima la piel cerrará los pocos capilares restantes provocando amputación fulminante por necrosis."
+  },
+  {
+    "id": 84,
+    "tema": "Patología Reumática",
+    "contexto": null,
+    "pregunta": "La osteoartrosis u osteoartritis degenerativa afecta patológicamente en primer lugar a:",
+    "opciones": {
+      "a": "La membrana y líquido sinovial.",
+      "b": "La médula ósea subcondral.",
+      "c": "El cartílago articular hialino."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "A diferencia de las enfermedades reumáticas que inflaman la cápsula (sinovitis), la osteoartritis es una enfermedad puramente mecánica: comienza con la destrucción fibrilar, adelgazamiento y pérdida del cartílago que recubre el hueso en la articulación."
+  },
+  {
+    "id": 85,
+    "tema": "Ortopodología Infantil",
+    "contexto": null,
+    "pregunta": "En el Síndrome de Down, uno de los fenotipos clave que complica el calzado es el aumento patológico del espacio interdigital entre el primer y segundo dedo. ¿Cómo se conoce esta alteración?",
+    "opciones": {
+      "a": "Pie hendido.",
+      "b": "Ectrodactilia.",
+      "c": "Pie en sandalia."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "El 'signo de la sandalia' es un hallazgo morfológico característico y muy común de la trisomía 21, llamado así por asemejarse al espacio de separación forzado de los dedos al llevar sandalias japonesas tipo geta o chanclas."
+  },
+  {
+    "id": 86,
+    "tema": "Patología Neurológica",
+    "contexto": null,
+    "pregunta": "En los pacientes geriátricos que han sufrido un ACV (Accidente Cerebrovascular), ¿qué marcha claudicante unilateral se produce por la hipertonía combinada del miembro inferior?",
+    "opciones": {
+      "a": "Marcha en guadaña (Hemipléjica / Segador).",
+      "b": "Marcha miopática de pato.",
+      "c": "Marcha festinante (Parkinsoniana)."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "La pierna hemipléjica queda estructurada en extensión y el pie en equino. Al no poder flexionar la rodilla para dar el paso, el paciente 'lanza' la pierna rígida dibujando un semicírculo arrastrando el pie, movimiento idéntico al que hacen los segadores con la guadaña."
+  },
+  {
+    "id": 87,
+    "tema": "Prótesis y Amputaciones",
+    "contexto": null,
+    "pregunta": "En las amputaciones mayores, la desarticulación que realiza un corte de los metatarsianos respetando el astrágalo, calcáneo, escafoides y cuboides en su interior corresponde anatómicamente a la amputación de:",
+    "opciones": {
+      "a": "Chopart.",
+      "b": "Lisfranc (Tarso-Metatarsiana).",
+      "c": "Transmetatarsal."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La línea de Lisfranc es la bisagra articular que divide el mediopié del antepié (cuñas/cuboides con bases metatarsales). Si cortas a ese nivel o extraes los metatarsianos completos, amputas en Lisfranc. Chopart estaría más arriba, extirpando también las cuñas y el escafoides."
+  },
+  {
+    "id": 88,
+    "tema": "Patología de Rodilla",
+    "contexto": null,
+    "pregunta": "En la exploración clínica de un Genu Valgo, se debe medir con el paciente en bipedestación la distancia existente entre los maleolos internos tibiales para evaluar la gravedad. Un valor patológico en un niño mayor a los 7 años sería:",
+    "opciones": {
+      "a": "Menor a 2 cm.",
+      "b": "Mayor a 8-10 centímetros y asimétrica.",
+      "c": "Solo es patológico si supera los 20 cm."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Tras estabilizarse el desarrollo (7-8 años), la separación intermaleolar en valgo no debería superar los 5 cm de media. Distancias asimétricas (un lado más separado) o superiores a 8-10 cm sugieren distrofia focal y obligan al estudio ortopédico."
+  },
+  {
+    "id": 89,
+    "tema": "Ortopodología Infantil",
+    "contexto": null,
+    "pregunta": "El pie Zambo congénito puro (PEVAC) presenta 4 componentes anatómicos estructurados, ¿Cuáles son?:",
+    "opciones": {
+      "a": "Plano, valgo, abdúctus, pronado.",
+      "b": "Cavo, aducto, varo y equino.",
+      "c": "Metatarsus adductus, talo valgo, rotación externa."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La deformidad PEVAC aglutina el hundimiento anterior del tarso (Cavo), la desviación medial del mediopié (Aducto), la desviación del talón hacia medial (Varo) y la contracción masiva del tendón de Aquiles anclando el pie en puntillas (Equino)."
+  },
+  {
+    "id": 90,
+    "tema": "Biomecánica de la Marcha",
+    "contexto": null,
+    "pregunta": "La fase de apoyo total del pie sobre el suelo durante un ciclo normal de la marcha comienza biomecánicamente en el momento en que:",
+    "opciones": {
+      "a": "El pie contralateral despega del suelo.",
+      "b": "El antepié golpea el suelo (Flat foot) frenando el primer rodillo.",
+      "c": "El talón impacta primero (Heel strike)."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La fase de contacto inicial (heel strike) solo apoya el talón. La fase estante intermedia real (apoyo plantar total o Mid-Stance) empieza matemáticamente cuando toda la suela toma contacto frenando el pie contra el suelo, asumiendo toda la carga."
+  },
+  {
+    "id": 91,
+    "tema": "Prótesis y Amputaciones",
+    "contexto": null,
+    "pregunta": "Un muñón ideal para recibir una prótesis tras una amputación infrapatelar (tibial) debe presentar:",
+    "opciones": {
+      "a": "Forma cónica o cilíndrica, piel móvil y una cicatriz no adherida a planos óseos profundos.",
+      "b": "Forma bulbosa y globulosa con mucha grasa distal.",
+      "c": "Cicatrices retráctiles rígidas para anclar el socket."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "El encaje protésico necesita deslizarse y crear vacío sin romper la piel. Una cicatriz adherida al hueso (invaginada) rasgará los tejidos por cizallamiento con cada paso. La forma cilíndrica previene edemas focales en embudo."
+  },
+  {
+    "id": 92,
+    "tema": "Ortopodología Infantil",
+    "contexto": null,
+    "pregunta": "La dismetría de miembros inferiores suele acarrear alteraciones biomecánicas en la marcha si la diferencia de longitud real supera los:",
+    "opciones": {
+      "a": "5 milímetros.",
+      "b": "Entre 1 y 1.5 centímetros (requiriendo evaluación clínica).",
+      "c": "Solo si superan los 4 centímetros."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Casi todos los humanos tienen una dismetría fisiológica irrelevante de 3 a 5 mm. La pelvis humana tiene capacidad para absorber hasta casi 1 cm sin provocar alteraciones dolorosas evidentes en la columna, pero a partir de ahí comienza la cojera manifiesta."
+  },
+  {
+    "id": 93,
+    "tema": "Patología Neurológica",
+    "contexto": null,
+    "pregunta": "El Síndrome de Guillain-Barré es una polineuropatía aguda que provoca en miembros inferiores:",
+    "opciones": {
+      "a": "Debilidad y parálisis ascendente flácida progresiva.",
+      "b": "Espasticidad masiva descendente desde los hombros.",
+      "c": "Marcha festinante incontrolada."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Es una enfermedad autoinmune que destruye las vainas de mielina de los nervios periféricos (frecuentemente tras una infección viral), comenzando por hormigueo en los pies y provocando una parálisis que sube rápidamente por el cuerpo como si fuera una media."
+  },
+  {
+    "id": 94,
+    "tema": "Ortesis Plantares",
+    "contexto": null,
+    "pregunta": "Una cuña pronadora (elevación externa) en una plantilla bajo la zona del retropié se indica biomecánicamente para tratar:",
+    "opciones": {
+      "a": "Un talón en valgo excesivo (Pie plano).",
+      "b": "Un retropié estructurado en varo rígido para reducir momentos de torsión lateral.",
+      "c": "La sobrecarga puntual en las cabezas metatarsales centrales."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Si el paciente pisa constantemente por el borde externo del pie (varo), corre riesgo de hacerse esguinces crónicos por inestabilidad lateral. Se coloca una cuña en la zona lateral exterior para dar base al pie o 'volcarlo' hacia dentro."
+  },
+  {
+    "id": 95,
+    "tema": "Ayudas a la Marcha",
+    "contexto": null,
+    "pregunta": "Un andador tipo 'rollator' de 4 ruedas se diferencia de un andador fijo tradicional (caminador) en que el rollator exige al paciente:",
+    "opciones": {
+      "a": "Un grado de deterioro cognitivo extremo y debilidad total de brazos.",
+      "b": "Tener capacidad física para levantar el andador a cada paso.",
+      "c": "Disponer de un mejor nivel cognitivo, control de tronco y reflejo de frenado en las manos."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los andadores de ruedas facilitan la velocidad y evitan fatigar los brazos (no hay que levantarlos a plomo), pero al no fijarse al suelo, si el paciente sufre un síncope, tropieza o se olvida de apretar el freno, el andador rodará libremente provocando una caída fatal."
+  },
+  {
+    "id": 96,
+    "tema": "Patología Reumática",
+    "contexto": null,
+    "pregunta": "El nódulo de Heberden y el nódulo de Bouchard, típicos de la artrosis deformante, se sitúan respectivamente en:",
+    "opciones": {
+      "a": "Articulaciones de cadera y rodilla.",
+      "b": "Las interfalángicas distales (IFD) y las interfalángicas proximales (IFP) de las manos y pies.",
+      "c": "En la fascia plantar."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Son ensanchamientos óseos (osteofitos palpables) clásicos de las fases crónicas de la artrosis de los dedos. Los distales (la punta del dedo) son de Heberden y los de la articulación media son de Bouchard."
+  },
+  {
+    "id": 97,
+    "tema": "Patología de Cadera",
+    "contexto": null,
+    "pregunta": "El signo de Galeazzi positivo en un bebé neonato o lactante indica patología relacionada con:",
+    "opciones": {
+      "a": "Fractura vertebral.",
+      "b": "Displasia del desarrollo de la cadera (DDC) unilateral o luxación congénita.",
+      "c": "Coalición tarsal."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Al tumbar al bebé bocarriba y flexionar sus rodillas y caderas 90º, si se observa que una rodilla queda más baja que la otra, el signo de Galeazzi es positivo, delatando que el fémur de esa pierna se ha salido de la cápsula hacia atrás."
+  },
+  {
+    "id": 98,
+    "tema": "Biomecánica de la Marcha",
+    "contexto": null,
+    "pregunta": "El ciclo de la marcha humana suele dividirse de manera estándar en dos grandes fases funcionales. ¿Qué porcentaje de tiempo ocupan respectivamente?",
+    "opciones": {
+      "a": "50% fase de apoyo y 50% fase oscilante.",
+      "b": "Aproximadamente 60% fase de apoyo y 40% fase oscilante o de balanceo.",
+      "c": "20% fase de apoyo total y 80% vuelo continuo."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "A diferencia de la carrera donde existen periodos de flotación sin tocar el suelo, al caminar siempre tenemos contacto. El pie permanece en el suelo asumiendo peso más de la mitad del tiempo (60%), mientras el resto del ciclo avanza libremente."
+  },
+  {
+    "id": 99,
+    "tema": "Ortopodología Infantil",
+    "contexto": null,
+    "pregunta": "La 'Marcha de Puntillas' idiopática infantil (Toe-Walking) suele considerarse un hábito normal del desarrollo motor inicial hasta como máximo la edad de:",
+    "opciones": {
+      "a": "2 o 3 años de edad.",
+      "b": "9 años de edad.",
+      "c": "15 años de edad."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Muchos bebés sanos ensayan caminando sobre los dedos al aprender a caminar, es sensorial y fisiológico. No obstante, si el patrón persiste sólidamente pasados los 3 años, debe descartarse parálisis cerebral espástica o acortamiento real del Aquiles."
+  },
+  {
+    "id": 100,
+    "tema": "Ortesis de Miembro Inferior",
+    "contexto": null,
+    "pregunta": "Una órtesis PTB (Patellar Tendon Bearing) se basa biomecánicamente en:",
+    "opciones": {
+      "a": "Desviar las presiones de carga fuera del pie, transfiriendo entre un 30% y un 50% del peso al tendón rotuliano y los cóndilos.",
+      "b": "Cargar un 100% en el calcáneo.",
+      "c": "Estirar los isquiotibiales bloqueando toda la rótula."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Originario de los amputados, el diseño PTB abraza fuertemente la rodilla presionando el ligamento rotuliano. Esto crea un 'asiento' o embudo de apoyo. Es sumamente útil en pacientes con huesos rotos o el talón triturado que no pueden pisar el suelo bajo ningún concepto."
+  },
+  {
+    "id": 101,
+    "tema": "Cirugía Ortopédica",
+    "contexto": null,
+    "pregunta": "La osteocondrosis del hueso navicular (escafoides tarsiano) que causa claudicación y dolor focal en niños de entre 4 y 8 años recibe el nombre de:",
+    "opciones": {
+      "a": "Enfermedad de Osgood-Schlatter.",
+      "b": "Enfermedad de Sever.",
+      "c": "Enfermedad de Köhler."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Las osteocondrosis infantiles consisten en una necrosis temporal del hueso por problemas vasculares en el cartílago de crecimiento. Köhler afecta al escafoides. Sever es la clásica del talón (calcáneo). Osgood-Schlatter se da justo debajo de la rodilla (tuberosidad tibial)."
+  },
+  {
+    "id": 102,
+    "tema": "Pie Diabético",
+    "contexto": null,
+    "pregunta": "La ulceración de tipo 'Mal Perforante Plantar' en el paciente diabético suele producirse primordialmente debido a:",
+    "opciones": {
+      "a": "Rozaduras por calzados de mala calidad de forma aguda.",
+      "b": "Micosis severas de piscina interdigitales.",
+      "c": "Neuropatía sensitivo-motora, deformidad estructural como garras digitales, y presiones biomecánicas focalizadas sostenidas sin percepción de dolor."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La génesis de la úlcera no es isquémica pura. Los nervios dañados impiden que el pie sude (piel seca y rota) y provocan que los dedos se agarren haciendo retroceder la almohadilla grasa protectora. El hueso pisa contra el suelo desprotegido, y el paciente sigue caminando porque ha perdido totalmente la sensibilidad dolorosa de aviso."
+  },
+  {
+    "id": 103,
+    "tema": "Patología Reumática",
+    "contexto": null,
+    "pregunta": "La espondilitis anquilosante (HLA-B27 positivo) pertenece al grupo de espondiloartropatías inflamatorias. Sus primeros síntomas en pacientes jóvenes adultos se inician más a menudo con inflamación de:",
+    "opciones": {
+      "a": "Solo los huesos metatarsianos.",
+      "b": "Articulaciones sacroilíacas y rigidez ascendente en la columna vertebral (bambú).",
+      "c": "Cartílagos costales."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Suele debutar como una lumbalgia inflamatoria insidiosa en pacientes varones jóvenes. La enfermedad ataca las articulaciones pélvicas (sacroilitis) y calcifica los ligamentos de las vértebras lumbares, ascendiendo hasta fusionar la columna."
+  },
+  {
+    "id": 104,
+    "tema": "Ortesis Plantares",
+    "contexto": null,
+    "pregunta": "Para la prescripción de un elemento ortopédico de descarga en forma de Herradura ('U-pad' o almendra hueca), la indicación técnica primaria sería:",
+    "opciones": {
+      "a": "Dar soporte al arco interno caído.",
+      "b": "Descargar y liberar de toda presión a un hueso, verruga o lesión ulcerosa centralizándola dentro del agujero o ventana central de la herradura.",
+      "c": "Aumentar la tracción del tobillo."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Pura física. Al rodear una lesión dolorosa prominente con un material amortiguador elevado en forma de anillo, el tejido lesionado central queda suspendido en el aire, logrando que sea el material sano de los bordes quien reciba el 100% de la compresión del zapato."
+  },
+  {
+    "id": 105,
+    "tema": "Ortesis de Miembro Inferior",
+    "contexto": null,
+    "pregunta": "La ortesis DAFO (Dynamic Ankle-Foot Orthosis), diseñada originariamente por Nancy Hylton, se caracteriza frente al AFO convencional de plástico grueso por:",
+    "opciones": {
+      "a": "Ser muchísimo más pesada e incluir acero.",
+      "b": "Ser una ortesis supramaleolar de plástico extremadamente fino, flexible e íntimamente amoldado para proporcionar feedback sensorial y neuromotor.",
+      "c": "Solo utilizarse en pacientes adultos sanos."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El paradigma del DAFO no es inmovilizar a lo bruto, sino estabilizar las pequeñas articulaciones del retropié con plástico muy fino. Ese control ajustado mejora la alineación ósea natural en niños espásticos, facilitando que sean sus propios músculos los que reaccionen y mejoren el tono activo y la marcha."
+  },
+  {
+    "id": 106,
+    "tema": "Biomecánica de la Marcha",
+    "contexto": null,
+    "pregunta": "Durante la fase final del apoyo (3º rodillo o propulsión), los músculos principales encargados de levantar el peso del cuerpo impulsando el talón hacia arriba y adelante son:",
+    "opciones": {
+      "a": "Músculos Tibial anterior y Cuádriceps.",
+      "b": "Complejo Tríceps Sural (Gemelos y Sóleo) y flexores del hallux.",
+      "c": "Los aductores de cadera."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Para avanzar, el pie debe actuar como una palanca rígida. El tríceps sural se contrae concéntricamente con tremenda fuerza levantando todo el talón del suelo, y el flexor del primer dedo proporciona la aceleración final de despuegue contra el piso."
+  },
+  {
+    "id": 107,
+    "tema": "Ortesis Plantares",
+    "contexto": null,
+    "pregunta": "A su consulta acude un corredor de maratón diagnosticado de Fascitis Plantar Severa proximal. A nivel ortopodológico se recomienda para su recuperación inicial:",
+    "opciones": {
+      "a": "Plantilla fina de silicona solo bajo el arco.",
+      "b": "Taloneras duras.",
+      "c": "Cinta o Vendaje Neuromuscular funcional (Taping tipo LowDye), crioterapia y posterior confección de una ortesis plantar semirrígida con control del arco longitudinal para relajar la tensión aponeurótica."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La inflamación insercional se genera por sobreestiramiento repetitivo del tejido fibroso de la fascia plantar. Un vendaje estabilizador calma el dolor de inmediato al evitar el hundimiento biomecánico del arco, para luego sostenerlo en el tiempo con una plantilla a medida que acorte las tensiones excéntricas."
+  },
+  {
+    "id": 108,
+    "tema": "Patología de Rodilla",
+    "contexto": null,
+    "pregunta": "La prueba diagnóstica de Lachman en camilla se realiza como test fundamental para detectar un grado de lesión aguda sobre qué estructura específica:",
+    "opciones": {
+      "a": "Meniscos.",
+      "b": "Ligamento Cruzado Anterior (LCA).",
+      "c": "Tendón de Aquiles."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El test de Lachman se realiza con la rodilla en leve flexión (20º), tirando bruscamente de la tibia hacia el clínico. Si la tibia se desliza anormalmente hacia delante sin un tope duro al final del rango de movimiento ('end feel' blando), indica rotura del ligamento cruzado anterior."
+  },
+  {
+    "id": 109,
+    "tema": "Patología Neurológica",
+    "contexto": null,
+    "pregunta": "La 'Marcha Festinante', constituida por pasos muy cortos (en arrastre), una postura en flexión general y un centro de gravedad excesivamente desplazado hacia delante con aceleración incontrolada, es la firma biomecánica patognomónica de:",
+    "opciones": {
+      "a": "Pacientes con Paraplejía flácida por lesión medular.",
+      "b": "Pacientes con Poliomielitis aguda infantil.",
+      "c": "Pacientes con Enfermedad de Parkinson o síndromes extrapiramidales."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La degeneración de la vía dopaminérgica en los ganglios basales cerebrales (Parkinson) produce rigidez muscular y bradicinesia. El paciente carece de reflejos corporales amplios y para no caerse de bruces hacia adelante, debe 'perseguir' desesperadamente y a tropiezos su propio centro de gravedad (festinación)."
+  },
+  {
+    "id": 110,
+    "tema": "Ortesis de Miembro Inferior",
+    "contexto": null,
+    "pregunta": "El corsé Milwaukee es uno de los dispositivos ortopédicos más célebres de la historia médica moderna. Su utilidad clínica primaria, que salva cientos de intervenciones vertebrales, radica en la detención y control ortésico agresivo de:",
+    "opciones": {
+      "a": "La displasia congénita del fémur bilateral.",
+      "b": "Escoliosis espinal idiopática progresiva o hipercifosis adolescente en fase de crecimiento.",
+      "c": "Las secuelas radiculares sensitivas del Ictus cerebral."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El corsé cérvico-toraco-lumbo-sacro de Milwaukee combina anillos rígidos envolventes desde la pelvis hasta la base de la cabeza y el cuello, integrando barras y cuñas para des-rotar, traccionar y frenar la desviación lateral de las vértebras antes de que maduren los huesos del adolescente."
+  },
+  {
+    "id": 111,
+    "tema": "Patología Infantil",
+    "contexto": null,
+    "pregunta": "En neonatología y pediatría temprana, las Maniobras manuales exploratorias de Barlow y Ortolani se realizan siempre al nacer como cribado clínico indispensable para diagnosticar precozmente:",
+    "opciones": {
+      "a": "Rotura de clavícula secundaria al parto distócico.",
+      "b": "Una luxación congénita subyacente y silente o inestabilidad grave de cadera (DDC).",
+      "c": "La viabilidad estructural de la rodilla."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Al rotar las caderas del neonato con presión, Ortolani verifica si se puede 'encajar' una cadera previamente salida de su sitio mediante un sonido seco de clic, mientras que Barlow prueba la cadera presionando para intentar luxarla empujándola fuera de un acetábulo débil. Son el patrón oro para la DDC neonatal."
+  },
+  {
+    "id": 112,
+    "tema": "Prótesis y Amputaciones",
+    "contexto": null,
+    "pregunta": "El 'Miembro Fantasma' se refiere a una manifestación del complejo somatosensorial en la cual un paciente amputado de larga duración:",
+    "opciones": {
+      "a": "Tiene visiones delirantes por medicación opioide aguda postraumática en el hospital.",
+      "b": "Rechaza psicológica y permanentemente la prótesis al verla artificial.",
+      "c": "Sigue sintiendo físicamente la extremidad extirpada con total realismo, percibiendo a menudo calambres, ardor, cosquilleo o dolor punzante en zonas como el pie amputado."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Cuando se seccionan los troncos nerviosos mayores, el cerebro no 'borra' inmediatamente el mapa corporal neurológico de esa área. Las terminaciones libres residuales mandan impulsos falsos (neuromas) al córtex y el paciente siente el dolor ardiendo, literalmente, en el vacío de su pie perdido."
+  },
+  {
+    "id": 113,
+    "tema": "Patología de Rodilla",
+    "contexto": null,
+    "pregunta": "La alteración en la que el tubérculo anterior de la tibia se inflama severamente y duele a la palpación extrema (en chicos jóvenes pre-púberes especialmente deportistas), engrosando o deformando abultadamente el hueso, corresponde al diagnóstico radiológico e inflamatorio de:",
+    "opciones": {
+      "a": "Enfermedad o lesión rotuliana tipo Osgood-Schlatter.",
+      "b": "Rotura en garra de los ligamentos posteriores.",
+      "c": "Luxación patelar."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Durante el estirón puberal, el cartílago de crecimiento de la tibia anterior aún no se ha endurecido. Las tensiones masivas que genera el Cuádriceps a través de su ligamento rotuliano arrancan micro-fragmentos del cartílago óseo, causando inflamación aguda que suele calcificar como un doloroso bulto de aspecto huesudo bajo la rótula de Osgood-Schlatter."
+  },
+  {
+    "id": 114,
+    "tema": "Biomecánica de la Marcha",
+    "contexto": null,
+    "pregunta": "El déficit y afectación patológica de los cordones nerviosos de la médula espinal posterior, a menudo causada por la Neuro-sífilis clásica u otras disfunciones masivas de los propioceptores internos, altera la transmisión sensitiva provocando que el paciente levante las piernas desmesuradamente e impacte con fuerza sorda contra el suelo. Esto configura un tipo clásico de deambulación denominado:",
+    "opciones": {
+      "a": "Marcha Parkinsoniana lenta en pasos.",
+      "b": "Marcha Cerebelosa, con base en estrella e inestabilidad del tronco masiva.",
+      "c": "Marcha Atáxica o Taloneante (Tabética)."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Al estar bloqueados los sensores posicionales profundos del pie y los nervios vestibulares aferentes (Ataxia Sensorial), el paciente cierra los ojos o anda en la oscuridad y literalmente ignora dónde acaban sus piernas o cómo pisan. Al caminar mira fijamente sus zapatos, los lanza con inercia muy alta y golpea los talones violentamente para intentar obtener algún feedback vibratorio desde los huesos al cerebro profundo."
+  },
+  {
+    "id": 115,
+    "tema": "Prótesis y Amputaciones",
+    "contexto": null,
+    "pregunta": "La amputación transmetatarsal (cortando a través de todos los cuellos o diáfisis óseas de los metatarsianos) en lugar de una amputación agresiva total del tobillo tipo Pirogoff o por Lisfranc, tiene la enorme ventaja biomecánica y conservadora primaria de:",
+    "opciones": {
+      "a": "Preservar intactas para el futuro las principales inserciones anatómicas musculares del tibial anterior o los peroneos que se alojan en la base dorsal de los metatarsianos, manteniendo el equilibrio activo del retropié.",
+      "b": "Ser una cirugía que se cicatriza de manera milagrosa en días.",
+      "c": "No requerir el uso de antibióticos previos."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Al salvar la parte trasera o base ósea del antepié (cuñas y cabeza/base proximal meta), los tendones encargados de la abducción-aducción y flexión del tobillo (Tibial anterior y posterior, y la banda fibular de los peroneos) no sufren desinserción por corte. El pie puede ser más corto para caminar con prótesis de silicona en la puntera, pero el equilibrio dinámico no estructurará ni retorcerá al tobillo como un muñón inútil (al contrario de Lisfranc o mayores)."
+  },
+  {
+    "id": 116,
+    "tema": "Patología Reumática",
+    "contexto": null,
+    "pregunta": "Indique qué manifestación clínica es uno de los sellos diagnósticos más definitorios de la Artritis Reumatoide frente a los desgastes articulares idiopáticos mecánicos o de edad senil en radiografías simples tempranas:",
+    "opciones": {
+      "a": "Exclusivo desgaste unilateral y formación de crecimientos cartilaginosos osteofitarios redondos o nodulares de Heberden.",
+      "b": "Ataque inicial destructivo focal solo en el dedo pulgar o en la gran articulación de rodilla y cadera sin afección sistémica de base.",
+      "c": "Distribución altamente simétrica en ambos hemicuerpos de los brotes y la notable e invasiva deformidad erosiva del hueso articular en articulaciones muy pequeñas (Metacarpos o Metatarsos), a menudo en alas en ráfaga o en ojal u ojalera."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "A diferencia de la Artrosis de desgaste que suele ser aleatoria (más en una rodilla de una mala caída o la mano dominante y ataca en los nudillos superiores), la AR es la enfermedad destructora sistémica autoinmune simétrica que se focaliza inflamando destructivamente el tejido en las manos o pies simultáneamente y retorciendo brutalmente los ejes al luxar todas y cada una de las cabezas óseas por el engrosamiento capsular proliferativo y las toxinas sinoviales."
+  },
+  {
+    "id": 117,
+    "tema": "Pie Diabético",
+    "contexto": null,
+    "pregunta": "En las heridas isquémicas puras de gran compromiso arterial o diabéticas con arteriopatía vascular obstructiva final y grave, el color natural o típico del pie cuando el paciente está levantado o tumbado pasa radicalmente a ser a nivel tisular de un color pálido o mortecino grave a un característico rubor en zonas más bajas si dejamos que cuelguen por debajo del nivel de bombeo natural del corazón. Las úlceras en estos casos se presentan comúnmente con forma de:",
+    "opciones": {
+      "a": "Úlceras redondas como un sello y secas (punch-out) en zonas de roce por necrosis o gangrena digital distal focal y muy severamente dolorosas.",
+      "b": "Llagas profundas en toda la musculatura con mucho tejido de granulación rojo bombeante y pus blanco masivo continuo.",
+      "c": "Úlceras con base enorme rodeadas de un callo inmenso hiperqueratósico y sin dolor agudo."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Una úlcera con un callo denso a su alrededor y sin sensibilidad es el sello único de las heridas neuropáticas. Por otro lado, una herida isquémica real duele espantosamente al dejar el tejido sin oxígeno durante las madrugadas en decúbito, se aloja en las puntas distales de dedos y presenta una lesión sin apenas sangre vital, en los bordes negros definidos o gangrenosos como un mordisco que no tiene oxígeno capilar de calidad y sin formar callo."
+  },
+  {
+    "id": 118,
+    "tema": "Patología Infantil",
+    "contexto": null,
+    "pregunta": "La Displasia de Desarrollo de Cadera (DDC) tratada de manera inadecuada o diagnosticada muy tarde pasada la ventana del uso del Arnés de Pavlik u ortesis flexibles, deriva trágicamente en un cierre asimétrico de los centros de crecimiento e incapacidades masivas articulares para iniciar el gateo u otros daños articulares secundarios permanentes en la vida adulta en el desarrollo osteoarticular final. ¿Cuál es el rango terapéutico oro de efectividad o ventana en semanas ideal postneonatal del uso correctivo para curar dicha afección masiva displásica general?",
+    "opciones": {
+      "a": "El dispositivo y las tracciones pueden ser efectivos en niños a partir del año y medio.",
+      "b": "Los arneses dinámicos pavlik muestran un éxito clínico sobresaliente si se diagnostica el error por eco e implementa el dispositivo rígidamente y de forma protocolizada siempre entre el primer y sexto mes clave del desarrollo de la vida y osificación inicial natural ósea del bebé.",
+      "c": "El uso exclusivo de yesos es la primera línea durante las dos o 6 primeras semanas de vida de un nacido a término."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La ventana crítica para modelar un acetábulo (hueco en la pelvis) inmaduro es antes de los 6 meses, momento natural en que el fémur aún puede recentrarse moldeando la copa suave que tiene al lado. A partir de los 6 u 8 meses, ese molde se osifica defectuoso, requiriendo cirugías reconstructivas profundas o yesos duros bajo anestesia total."
+  },
+  {
+    "id": 119,
+    "tema": "Ortopodología Infantil",
+    "contexto": null,
+    "pregunta": "La deformidad estructural infantil comúnmente observada al nacimiento denominada 'Pie Talo Valgo', que consiste puramente en que el pie del neonato está colapsado apoyando el dorso y flexionado tan extrema y radicalmente que choca literalmente el empeine y falanges frontales superiores tocando, rozando y tocando a menudo el área de la tibia anterior de la pierna o parte delantera ósea natural por posicionamientos anómalos o de gran peso fetal uterino durante el último mes natural, el tratamiento estricto clínico ortopédico base recomendado para la familia del pediatra consiste primordialmente por ser de base en la aplicación clínica médica de:",
+    "opciones": {
+      "a": "Tratamientos iniciales conservadores como simples estiramientos de movilización diaria plantar fisioterapéuticos en dirección opuesta hacia el suelo para elongar los extensores espásticos al ser extremadamente resolutivo con naturalidad.",
+      "b": "Tracciones óseas y tenotomía inmediata de todos los extensores digitales.",
+      "c": "Yeso o férulas completas hasta el muslo para revertir las anomalías genéticas que causan huesos ausentes o aplasias secundarias permanentes irreversibles masivas."
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "El pie calcáneo o talo-valgo posicional es simplemente una compresión final del feto dentro del útero que ha mantenido los dedos mirando hacia la tibia apretados en el líquido amniótico. Tras el parto, ese tendón estirado recuperará su tono natural. Es una condición elástica totalmente benigna en ausencia de daño neuronal, solo el 1% de casos graves o rígidos requeriría vendaje limitativo adhesivo temporal."
+  },
+  {
+    "id": 120,
+    "tema": "Patología de Rodilla",
+    "contexto": null,
+    "pregunta": "A nivel del examen biomecánico y fisiológico en el deportista de élite con gran dolor central u oficinista que ha tenido saltos masivos con rodilla extendida en hiperflexión anterior traumática; La alteración o distensión de las fuertes cuerdas articulares de retención articular (rotura LCP), que se evalúa por test clínico patológico del cajón empujando violentamente desde delante de la canilla forzando el deslizamiento y tracción extrema ósea rotular natural del segmento de la pantorrilla tibial posteriormente o hacia atrá en plano transversal de exploración supina hacia el fémur indica claramente lesión interna estructural localizada o englobada anatómicamente en el:",
+    "opciones": {
+      "a": "El vasto intermedio femoral medial o cuádriceps inferior de la rodilla central y su aparato suspensor inferior.",
+      "b": "Ligamento cruzado posterior profundo.",
+      "c": "Tercer menisco póstero lateral externo capsular profundo interarticular de roce rotuliano y tracción medial rotacional ósea."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El Ligamento Cruzado Posterior tiene como único objetivo fundamental que la tibia y la pantorrilla nunca resbalen ni puedan retroceder por debajo del fémur cuando apoyamos flexionado. Al hacer la prueba de Cajón Posterior clínico, empujando fuerte hacia el muslo, el Ligamento Cruzado se tensaría. Si está roto por impacto duro contra el salpicadero o salto con el talón de bruces, la tibia colapsa y fluye hundiéndose masivamente libremente perdiendo contención limitadora normal mecánica (Test de Sag u Hundimiento cruzado)."
+  }
+]
